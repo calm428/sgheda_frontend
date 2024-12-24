@@ -18,7 +18,7 @@
         "tailwind"
     ],
     "engines": {
-        "node": "18.20.5",
+        "node": "18.20.4",
         "yarn": "1.22.22"
     },
     "author": "Oliver",
